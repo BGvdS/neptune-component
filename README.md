@@ -294,7 +294,7 @@ You can show the validation errors returned by your endpoint. Neptune expects th
 
 ### Font and css customization
 
-Donlowad the css file and modify the `:root` to change the font
+Download the css file and modify the `:root` to change the font
 
 ```css
 :root {
